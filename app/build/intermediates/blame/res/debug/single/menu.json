@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/menu/bluetooth_chat.xml"
+    }
+]

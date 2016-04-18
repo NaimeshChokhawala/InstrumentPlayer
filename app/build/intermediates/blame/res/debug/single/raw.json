@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/c0.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/c0.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/d0.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/d0.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/f1.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/f1.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/d1.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/d1.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/b0.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/b0.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/g1.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/g1.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/e0.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/e0.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/a0.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/a0.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/c1.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/c1.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/f0.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/f0.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/g0.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/g0.mp3"
+    },
+    {
+        "merged": "/Users/naimesh/Downloads/MyApp/app/build/intermediates/res/merged/debug/raw/a1.mp3",
+        "source": "/Users/naimesh/Downloads/MyApp/app/src/main/res/raw/a1.mp3"
+    }
+]
